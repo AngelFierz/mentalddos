@@ -12,7 +12,7 @@ public class CalculadoraCool {
      */
     public static void main(String[] args) {
         
-        //SUBIDO AL OCTOGATOOOOO, HELLYEAAAA
+        //SUBIDO AL OCTOGATOOOO, muy rapido sorry
        try {
        Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese el primer valor: ");

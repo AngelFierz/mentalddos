@@ -24,7 +24,7 @@ public class Ejercicio11 {
         Scanner sc = new Scanner(System.in);
         String nombre = sc.nextLine();
         System.out.println("Bienvenido "+ nombre);
-        
+       
         System.out.println("Escribe tu edad");
         int edad = sc.nextInt();
         
